@@ -38,7 +38,7 @@ Based on community feedback, in 2017 the training/validation split was changed f
   
   First, I made the database available for certain objects, if algorithm detects this object from image, then crops from main image and save MySQL and pandas dataFrame some specific feature which are "Tpye, Confidences, Coordinates, filepath, Okey_or_Not, time".
   
-  <br> ![image](https://user-images.githubusercontent.com/83788186/174973443-7447ab17-a306-49aa-a93b-22f6d6b25398.png)</br>
+  <br> ![image](https://user-images.githubusercontent.com/83788186/174986829-236cefb7-0e9d-4b69-9067-8fc4bba1d681.png)</br>
   
   **Image**
   
