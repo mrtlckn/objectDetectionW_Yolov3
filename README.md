@@ -40,16 +40,19 @@ Based on community feedback, in 2017 the training/validation split was changed f
   
   <br> ![image](https://user-images.githubusercontent.com/83788186/174973443-7447ab17-a306-49aa-a93b-22f6d6b25398.png)</br>
   
+  **Image**
   
+  <br> ![image](https://user-images.githubusercontent.com/83788186/174984106-107d5d57-15ab-46ec-8622-8462361b3755.png) </br>
   **1-Detect my object from Image**
-  <br> ![image](https://user-images.githubusercontent.com/83788186/174973050-e4183b7e-c594-4d46-8d19-89b966e579b4.png)  </br>
+  <br> ![image](https://user-images.githubusercontent.com/83788186/174984177-2edecff0-50a5-48a0-b654-2c00fff4eca7.png)  </br>
   
-  **2-Crop my object"**
-  <br>![image](https://user-images.githubusercontent.com/83788186/174976361-854df489-099b-4a4b-bfb0-29b567c1542c.png) </br>
+  **2-Crop my object (some cropped images)"**
+  <br>![image](https://user-images.githubusercontent.com/83788186/174984601-f6b902e3-de15-4872-b951-edcf8961648c.png) </br>
+  <br> ![image](https://user-images.githubusercontent.com/83788186/174985012-8e28198f-3c17-4439-9d1e-4fc440c35bc9.png) </br>
   
   **3-Save specific feature on MySQL and pandas dataFrame**
   
   
-  <br> ![image](https://user-images.githubusercontent.com/83788186/174976719-1668e2bc-8067-42c2-8c55-9c063cdffff6.png)</br>
-  <br> ![image](https://user-images.githubusercontent.com/83788186/174976779-e5feff7b-4a65-4559-a1ca-9df65a884599.png)</br>
+  <br> ![image](https://user-images.githubusercontent.com/83788186/174985137-93352531-575b-4201-8a81-d01d9ad7449e.png)</br>
+  <br> ![image](https://user-images.githubusercontent.com/83788186/174985225-8e9ab017-0d87-4a36-96e0-7df9a06309f1.png)</br>
 </div>
